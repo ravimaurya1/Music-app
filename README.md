@@ -4,7 +4,9 @@
 
 
 
-#This is Music App using React Js.
+<h1>This is Music App using React Js.</h1>
+</br>
+<img src ="https://github.com/ravimaurya1/Music-app/blob/main/player.png" />
 
 To Run this program.
 1. Do npm install.
